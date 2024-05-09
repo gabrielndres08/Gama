@@ -12,3 +12,4 @@ console.log("el mensaje es "+mensaje)
 alert("Sus datos se guardaron correctamente")
 }
 )
+console.log("hola")
